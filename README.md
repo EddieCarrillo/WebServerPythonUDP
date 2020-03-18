@@ -1,6 +1,8 @@
 # WebServerPythonTCP
 Client + Server Code
 
+I completely misnamed this repo. It should be TCP not UDP.
+
 
 In this assignment, you will develop a simple Web server in Python that is capable of processing only one request. Specifically, your web server will...
 1.) Create a connection socket when contacted by a client. (browser)
